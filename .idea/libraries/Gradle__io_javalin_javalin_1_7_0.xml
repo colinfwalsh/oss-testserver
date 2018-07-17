@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.javalin:javalin:1.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.javalin/javalin/1.7.0/efe65d0ba9a25346c85fdbcf2560184bb698fdf3/javalin-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.javalin/javalin/1.7.0/2599eeb41c1b2295c927c7464f50973069955dfb/javalin-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
